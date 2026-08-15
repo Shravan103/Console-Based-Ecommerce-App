@@ -1,0 +1,20 @@
+[
+    {
+        "user_id": 4,
+        "name": "shravan",
+        "email": "shravan@gmail.com",
+        "role": "REGULAR_USER"
+    },
+    {
+        "user_id": 5,
+        "name": "ok",
+        "email": "ok",
+        "role": "REGULAR_USER"
+    },
+    {
+        "user_id": 6,
+        "name": "smita",
+        "email": "smita@gmail.com",
+        "role": "ADMIN"
+    }
+]
